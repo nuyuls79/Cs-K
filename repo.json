@@ -1,9 +1,9 @@
 {
   "iconUrl": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/refs/heads/master/.github/logo/cskarma.png",
-  "name": "cs-karma",
+  "name": "cs-k waduk",
   "description": "Plugins Across All Categories and Languages.",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/refs/heads/builds/plugins.json"
+    "https://raw.githubusercontent.com/nuyuls79/Cs-K/refs/heads/builds/plugins.json"
   ]
 }
